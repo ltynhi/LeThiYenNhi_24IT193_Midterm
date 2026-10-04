@@ -1,0 +1,5 @@
+
+my_ls
+*.o
+src/*.o
+.DS_Store
